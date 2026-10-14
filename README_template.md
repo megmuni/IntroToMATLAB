@@ -23,5 +23,6 @@ This hands-on workshop will introduce participants to MATLAB, one of the most we
    - Hands-on Activity 3: data analysis in MATLAB
 * Additional Resources (where to find documentation; libraries for computational medicine)
 
-## References   
+## References
+Some material adapted from Mathworks' [Biosciences Statistical Methods training module](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)
 *Workshop created as part of the McGill Initiative in Computational Medicine*
