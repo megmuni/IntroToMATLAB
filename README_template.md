@@ -24,5 +24,5 @@ This hands-on workshop will introduce participants to MATLAB, one of the most we
 * Additional Resources (where to find documentation; libraries for computational medicine)
 
 ## References
-Some material adapted from Mathworks' [Biosciences Statistical Methods training module](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)
+*Some material adapted from Mathworks' [Biosciences Statistical Methods training module](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)
 *Workshop created as part of the McGill Initiative in Computational Medicine*
