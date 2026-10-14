@@ -5,7 +5,7 @@ This hands-on workshop will introduce participants to MATLAB, one of the most we
    
 ## Requirements
 * Participants should have some basic understanding of general programming concepts - for/while loops, if/else statements, etc.
-* Participants should install MATLAB on their computer before the workshop. The latest version of MATLAB is R2026b, and you can get from the Mathworks website for free as long as you create an account/sign in using your McGill email! (See below)
+* Participants should install MATLAB on their computer before the workshop. The latest version of MATLAB is R2026b, and you can get from the MathWorks website for free as long as you create an account/sign in using your McGill email! (See below)
    
 ## Software
 * [MATLAB](https://www.mathworks.com/downloads/)
@@ -24,5 +24,6 @@ This hands-on workshop will introduce participants to MATLAB, one of the most we
 * Additional Resources (where to find documentation; libraries for computational medicine)
 
 ## References
-*Some material adapted from Mathworks' [Biosciences Statistical Methods training module](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)
+Some material adapted from MathWorks' [Biosciences Statistical Methods training module](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)
+
 *Workshop created as part of the McGill Initiative in Computational Medicine*
