@@ -1,29 +1,27 @@
-# Workshop name
+# Intro to MATLAB 
 
 ## Overview
-<Add a brief description and objectives of the workshop here>
+This hands-on workshop will introduce participants to MATLAB, one of the most well-known programming languages for technical and scientific computing. The workshop will cover MATLAB programming fundamentals, such as arrays and matrices, variables, functions, control flow and operators, and so on. Participants will also learn how to use MATLAB for data analysis and visualization.
    
 ## Requirements
-<Add computational/knowledge requirements here>
+* Participants should have some basic understanding of general programming concepts - for/while loops, if/else statements, etc.
+* Participants should install MATLAB on their computer before the workshop. The latest version of MATLAB is R2026b, and you can get from the Mathworks website for free as long as you create an account/sign in using your McGill email! (See below)
+   
+## Software
+* [MATLAB](https://www.mathworks.com/downloads/)
+   
+## Small Outline/Structure
+* MATLAB Basics
+   - The command line. Vectors, matrices, and arrays; synatx; built-in functions
+   - Hands-on Activity 1: simple calculations in MATLAB
+* Programming in MATLAB
+   - Variables, functions, and scripts; if-statements and loops; text and characters; common errors and troubleshooting
+   - Hands-on Activity 2: programming exercises
+* MATLAB for Science
+   - 2D and 3D plotting
+   - Numerical methods. Root finding; curves of best fit; solving differential equations
+   - Hands-on Activity 3: data analysis in MATLAB
+* Additional Resources (where to find documentation; libraries for computational medicine)
 
-<If a unix terminal is needed, include instructions to download it on windows>
-We will be using the unix terminal to run our analyses. so be sure you have access to one. 
-* Mac OS and any linux distribution will have a terminal already
-    * Mac OS: search for terminal in your spotlight search
-* Windows users: 
-    * Option 1: Download a [unix subsystem (WSL)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview) **recommended
-    * Option 2: Download [MobaXterm](https://mobaxterm.mobatek.net/)
-   
-## Sofware <List of software that will be used during the workshop>
-* [Software1](link to installation instructions)
-* [Software2](link to installation instructions)
-* Instructions to open colab, Rlibraries, etc.
-   
-## Small Outline/Structure (with link to exercises in colab if applicable)
-* topic
-   - exercise - link to colab
-
-## References
-*<Material Author/Adapted from disclaimer>*
-   
+## References   
 *Workshop created as part of the McGill Initiative in Computational Medicine*
